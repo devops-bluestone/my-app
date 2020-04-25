@@ -1,0 +1,5 @@
+192.168.56.103 kubemaster kubemaster.bluestone.com
+192.168.56.107 kubeworker kubeworker.bluestone.com
+192.168.56.104 kubeworker1 kubeworker1.bluestone.com
+192.168.56.108 ubuntu-kubemaster ubuntu-kubemaster.bluestone.com
+192.168.56.109 ubuntu-kubenode ubuntu-kubenode.bluestone.com
